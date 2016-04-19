@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="imi">Imię…</string>
+    <string name="podaj_imi">Podaj imię:</string>
+    <string name="podaj_nazwisko">Podaj nazwisko:</string>
+    <string name="nazwisko">Nazwisko…</string>
+    <string name="podaj_swoj_wiek">Podaj swoj wiek:</string>
+    <string name="wiek">Wiek…</string>
+    <string name="zapisz_mnie">Zapisz mnie</string>
 </resources>
